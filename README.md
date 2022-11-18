@@ -23,8 +23,12 @@ Few tips to motherboard replace:
 3. SDCard plug dont fit, hide it.
 
 After replacing configs set again:
-1. Pid tuning: https://all3dp.com/2/klipper-pid-tune-tuning-3d-printer/
-2. Z offset (if you have BLTouch): https://www.youtube.com/watch?v=vduYl9Rw5iI
+1. Raspberry Pi/mcu serial adress:
+- connect with Putty to Raspberry Pi
+- ls /dev/serial/by-id/*
+- replace your serial id with existing one in printer.cfg on [mcu] section
+2. Pid tuning: https://all3dp.com/2/klipper-pid-tune-tuning-3d-printer/
+3. Z offset (if you have BLTouch): https://www.youtube.com/watch?v=vduYl9Rw5iI
 
 Test autohome, fan behaviour
 

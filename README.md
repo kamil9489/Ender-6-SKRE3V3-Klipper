@@ -1,5 +1,9 @@
 # Ender-6-SKRE3V3-Klipper
-Configs for changing mainboard in Ender 6 to SKR E3 V3 with klipper.
+<b> Configs for changing mainboard in Ender 6 to SKR E3 V3 with klipper. </b>
+
+I use BiquH2 as direct drive + Y endstop relocation for more print space (https://www.thingiverse.com/thing:5222477)
+
+
 
 
 For klipper install you can follow this guide: https://3dprintbeginner.com/how-to-install-klipper-on-creality-ender-6/ 

@@ -8,7 +8,7 @@ I recommend MainsailOS. Use desuuuu repo if you want stock screen working, use k
 
 There are few options:
 
-SKRE3V3-BLTouch-dgus  -  This is for desuuuu fork of klipper to get stock screen working with klipper and BLTouch (connect it to the motherboard instead of z endstop plug)
+SKRE3V3-BLTouch-dgus  -  This is for desuuuu fork of klipper to get stock screen working + BLTouch (connect it to the motherboard instead of z endstop plug)
 
 SKRE3V3-dgus  -  This is for desuuuu fork of klipper to get stock screen working with klipper
 

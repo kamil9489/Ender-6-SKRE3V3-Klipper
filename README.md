@@ -33,8 +33,10 @@ After replacing configs set again:
 - replace your serial id with existing one in printer.cfg on [mcu] section
 2. Pid tuning: https://all3dp.com/2/klipper-pid-tune-tuning-3d-printer/
 3. Z offset (if you have BLTouch): https://www.youtube.com/watch?v=vduYl9Rw5iI
+4. Esteps (rotation distance on [extruder] section)
+- You can use rotation distance calculator to change marlin value to klipper value: https://3dprintbeginner.com/rotation-distance-calculator/
 
-Test autohome, fan behaviour
+Test autohome, fan behaviour, print test cube.
 
 
 
